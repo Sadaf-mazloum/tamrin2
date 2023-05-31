@@ -1,0 +1,23 @@
+table{
+    border: 5px solid darkblue;
+    width: 1000px;
+    height: 500px;
+}
+td{
+    border: 5px solid darkblue;
+}
+li{
+    list-style-type: none;
+    padding-top: 90px;
+}
+h1{
+    font-size: 35px;
+}
+p,h1{
+    
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    font-size: 22px;
+}
